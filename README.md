@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @est2k
-Busy designing innovative technologies at my firm EED
+ My job involves the design of innovative technologies at my firm EED
+Hardware development, firmware development, EMI/Thermal Simulations
